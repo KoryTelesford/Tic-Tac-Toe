@@ -1,0 +1,49 @@
+.game {
+  margin-top: 1%;
+  margin-left: 28%;
+}
+
+button {
+  border-style: solid;
+  background-color: white;
+  padding: 9.2%;
+}
+
+.square {
+  cursor: pointer;
+}
+
+/* Bar Menu */
+
+.Bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20%;
+  height: 100%;
+  background-color: blue;
+}
+
+.Bar_Me {
+  display: flex;
+  flex-direction: row;
+}
+
+.Bar_Me #close_bar {
+  margin-right: 15%;
+}
+
+.Bar_Butto {
+  width: 120%;
+}
+
+.Re_Menijm {
+  margin-left: 20%;
+  margin-top: 10%;
+}
+
+.Re_Menijm .Bar_Butto {
+  margin-bottom: 8%;
+}
+
+/* ---------------------- */
